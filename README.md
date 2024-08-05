@@ -1,4 +1,7 @@
-Posting imports for my profiles for certain plugins.
+Posting imports for profiles for certain plugins.
+
+This is a continuation of the original VondUI made by Vond himself, I've kept his original work up to date while he's been away.
+https://wago.io/vondui_dps
 
 Will update whenever possible and try and sort stuff out as new patches come.
 
